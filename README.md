@@ -49,5 +49,5 @@ This GitHub repository hosts a series of labs and projects centered around mobil
 - Exploring robotic vision using the PixyCam.
 
 ### Lab 10 - Choose Your Own Adventure - Traffic Light
-- [Link to Lab 10 Report](LAB%2010%20-%20Choose%20Your%20Own%20Adventure%20-%20Traffic%20Light.pdf)
+- [Link to Lab 10 Report](LAB%2010%20-%20Choose%20Your%20Own%20Adventure%20-%20Trafic%20light.pdf)
 - A creative lab exploring various scenarios with traffic light control.
