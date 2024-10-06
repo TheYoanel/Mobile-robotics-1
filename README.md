@@ -16,8 +16,6 @@ This GitHub repository hosts a series of labs and projects centered around mobil
 - [Link to Lab 2 Report](LAB%202%20-%20Dead%20Reckoning.pdf)
 - Implementation of dead reckoning techniques for robot navigation.
 
-<img src="https://d3i71xaburhd42.cloudfront.net/b9dbe19c447c663bcb689efcbfcca607642ffb81/250px/2-Figure1-1.png" height="300px">
-
 ### Lab 3 - Obstacle Avoidance with IR Sensors
 - [Link to Lab 3 Report](LAB%203%20-%20Obstacle%20Avoidance%20with%20IR%20Sensors.pdf)
 - Utilizing infrared sensors for obstacle detection and avoidance.
